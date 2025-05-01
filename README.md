@@ -17,4 +17,5 @@ npx hardhat ignition deploy ./ignition/modules/Lock.ts
 测试样例：npx hardhat test
 启动本地测试网络：npx hardhat node
 部署合约到本地：npx hardhat ignition deploy ./ignition/modules/Lock.ts --network localhost
+生成调试代码：npx wagmi generate
 ```
